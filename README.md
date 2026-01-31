@@ -1,3 +1,5 @@
+Abstract:
+This work introduces the Ultimate Life Function (ULF)...
 # Ultimate Life Function (ULF)
 
 📄 Official archived version (DOI):  
