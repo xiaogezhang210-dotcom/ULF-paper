@@ -50,3 +50,7 @@ If you use this work, please cite:
 
 Zhang, X. (2026). *The Ultimate Life Function (ULF): Original Formulation*. Zenodo.  
 https://doi.org/10.5281/zenodo.18441443
+Citation:
+
+Zhang, X. (2026). The Ultimate Life Function (ULF).
+Zenodo. https://doi.org/10.5281/zenodo.18441443
