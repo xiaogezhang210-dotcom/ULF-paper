@@ -1,5 +1,6 @@
 # The Ultimate Life Function (ULF)
 
+ULF (Ultimate Life Function) is a theoretical framework that models intelligent behavior as an optimization process over cognitive and environmental states.
 A formal theoretical framework  
 Author: Xiaoge Zhang  
 Independent theoretical researcher
