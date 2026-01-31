@@ -1,3 +1,14 @@
+# The Ultimate Life Function (ULF)
+
+A formal theoretical framework  
+Author: Xiaoge Zhang  
+Independent theoretical researcher
+
+DOI: https://doi.org/10.5281/zenodo.18441443  
+GitHub: https://github.com/xiaogezhang210-dotcom/ULF-paper  
+Archive: https://archive.org/details/20260131_20260131_1509
+
+Permanent academic preservation copy.
 Author: Xiaoge Zhang  
 Independent Theoretical Researcher  
 
