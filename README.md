@@ -1,3 +1,9 @@
+ULF Official Archive:
+Zenodo DOI
+GitHub
+Internet Archive
+PDF
+Citation
 Abstract:
 This work introduces the Ultimate Life Function (ULF)...
 # Ultimate Life Function (ULF)
