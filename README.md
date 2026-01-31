@@ -1,3 +1,11 @@
+# Ultimate Life Function (ULF)
+
+📄 Official archived version (DOI):  
+https://doi.org/10.5281/zenodo.18441443
+
+Zhang, X. (2026). The Ultimate Life Function (ULF): Original Formulation. Zenodo.
+
+This GitHub repository mirrors the archived release and serves as the public access point for the ULF framework.
 # ULF-paper
 Original paper and materials for the Ultimate Life Function (ULF)（ULF理论原始论文与资料）
 Official archived version on Zenodo:
