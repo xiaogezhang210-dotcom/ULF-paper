@@ -1,3 +1,8 @@
+Author: Xiaoge Zhang  
+Independent Theoretical Researcher  
+
+Primary DOI archive:
+https://doi.org/10.5281/zenodo.xxxxxxx
 ULF Official Archive:
 Zenodo DOI
 GitHub
