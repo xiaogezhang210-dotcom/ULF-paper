@@ -1,57 +1,95 @@
-# The Ultimate Life Function (ULF)
-
-ULF (Ultimate Life Function) is a theoretical framework that models intelligent behavior as an optimization process over cognitive and environmental states.
-A formal theoretical framework  
-Author: Xiaoge Zhang  
-Independent theoretical researcher
-
-DOI: https://doi.org/10.5281/zenodo.18441443  
-GitHub: https://github.com/xiaogezhang210-dotcom/ULF-paper  
-Archive: https://archive.org/details/20260131_20260131_1509
-
-Permanent academic preservation copy.
-Author: Xiaoge Zhang  
-Independent Theoretical Researcher  
-
-Primary DOI archive:
-https://doi.org/10.5281/zenodo.xxxxxxx
-ULF Official Archive:
-Zenodo DOI
-GitHub
-Internet Archive
-PDF
-Citation
-Abstract:
-This work introduces the Ultimate Life Function (ULF)...
 # Ultimate Life Function (ULF)
 
-📄 Official archived version (DOI):  
+The Ultimate Life Function (ULF) is a unified mathematical framework
+that models intelligent behavior and life-course dynamics as an
+optimization process under stochastic constraints.
+
+ULF formalizes well-being, decision-making, and cognitive dynamics
+using stochastic differential equations, Fokker–Planck PDEs,
+variational principles, and optimal control theory.
+
+It proposes a life-optimization functional that integrates
+happiness biology and systemic resilience into a single
+long-horizon objective function.
+
+---
+
+## Keywords
+
+optimization theory  
+intelligent behavior  
+stochastic dynamics  
+optimal control  
+Fokker–Planck equation  
+variational calculus  
+free energy principle  
+cognitive modeling  
+life-course optimization  
+well-being dynamics  
+
+---
+
+## Abstract
+
+This work introduces the Ultimate Life Function (ULF), a theoretical
+framework that models human life trajectories as an optimization
+problem over probability distributions evolving under stochastic
+dynamics.
+
+The system state is represented as a high-dimensional manifold
+describing physiological, cognitive, and social variables.
+Its evolution follows a Fokker–Planck equation, while long-term
+life evaluation is defined by a variational functional combining
+happiness and resilience.
+
+ULF connects neuroscience, control theory, statistical physics,
+and decision science into a unified mathematical structure.
+
+---
+
+## Official Archive
+
+DOI (primary academic record):
 https://doi.org/10.5281/zenodo.18441443
 
-Zhang, X. (2026). The Ultimate Life Function (ULF): Original Formulation. Zenodo.
+GitHub repository:
+https://github.com/xiaogezhang210-dotcom/ULF-paper
 
-This GitHub repository mirrors the archived release and serves as the public access point for the ULF framework.
-# ULF-paper
-Original paper and materials for the Ultimate Life Function (ULF)（ULF理论原始论文与资料）
-Official archived version on Zenodo:
-https://doi.org/10.5281/zenodo.18440021
-Official archived version on Zenodo:
-https://doi.org/10.5281/zenodo.18440177
-Official archived version on Zenodo:
-https://doi.org/10.5281/zenodo.18440203
-Official archived version on Zenodo:
-https://doi.org/10.5281/zenodo.18440220
-Official archived version on Zenodo:
-https://doi.org/10.5281/zenodo.18441443
+Permanent preservation:
+https://archive.org/details/20260131_20260131_1509
+
+---
+
+## Author
+
+Xiaoge Zhang  
+Independent theoretical researcher
+
 ---
 
 ## Citation
 
-If you use this work, please cite:
+If you use or reference this work, please cite:
 
-Zhang, X. (2026). *The Ultimate Life Function (ULF): Original Formulation*. Zenodo.  
+Zhang, X. (2026).
+*The Ultimate Life Function (ULF): Original Formulation*.
+Zenodo.
 https://doi.org/10.5281/zenodo.18441443
-Citation:
 
-Zhang, X. (2026). The Ultimate Life Function (ULF).
-Zenodo. https://doi.org/10.5281/zenodo.18441443
+---
+
+## Repository Purpose
+
+This repository mirrors the archived release and serves as the
+public access point for the ULF framework, including:
+
+• Original theoretical paper  
+• Formal axioms and extensions  
+• Quantum ULF (QULF) expansion  
+• Mathematical notes and derivations  
+
+---
+
+## License
+
+Academic and archival preservation release.
