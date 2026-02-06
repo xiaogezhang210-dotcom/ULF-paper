@@ -50,7 +50,7 @@ and decision science into a unified mathematical structure.
 ## Official Archive
 
 DOI (primary academic record):
-https://doi.org/10.5281/zenodo.18441443
+https://doi.org/10.5281/zenodo.18440219
 
 GitHub repository:
 https://github.com/xiaogezhang210-dotcom/ULF-paper
